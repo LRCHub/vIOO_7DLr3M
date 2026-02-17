@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BURN IT DOWN",
+  "base_artist": "LINKIN PARK",
+  "createdAt": "2026-02-17T13:03:11.479689Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burn It Down",
+      "artist": "Daughter",
+      "has_synced": false,
+      "path": "select/01_Burn_It_Down_Daughter.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Burn It Down",
+      "artist": "Daughter",
+      "has_synced": true,
+      "path": "select/02_Burn_It_Down_Daughter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burn It Down (2000 Remastered Version)",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/03_Burn_It_Down_(2000_Remastered_Version)_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Burn It Down (BBC In Concert - Newcastle 26/06/82)",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/04_Burn_It_Down_(BBC_In_Concert_-_Newcastle_26_06_82)_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burn It Down (BBC In Concert - Newcastle 26\u000006\u000082)",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/05_Burn_It_Down_(BBC_In_Concert_-_Newcastle_26\u000006\u000082)_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burn It Down",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/06_Burn_It_Down_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burn It Down (Innerpartysystem Remix)",
+      "artist": "AWOLNATION",
+      "has_synced": false,
+      "path": "select/07_Burn_It_Down_(Innerpartysystem_Remix)_AWOLNATION.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Burn It Down (Innerpartysystem Remix)",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/08_Burn_It_Down_(Innerpartysystem_Remix)_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Burn It Down (Innerpartysystem Remix)",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/09_Burn_It_Down_(Innerpartysystem_Remix)_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BURN IT DOWN",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/10_BURN_IT_DOWN_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BURN IT DOWN",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_BURN_IT_DOWN_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BURN IT DOWN (Acapella)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/12_BURN_IT_DOWN_(Acapella)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BURN IT DOWN - Live Rock Im Park 2012",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/13_BURN_IT_DOWN_-_Live_Rock_Im_Park_2012_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BURN IT DOWN (Live Rock im Park 2012)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_BURN_IT_DOWN_(Live_Rock_im_Park_2012)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Burn it Down (Paul Van Dyk Remix)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/15_Burn_it_Down_(Paul_Van_Dyk_Remix)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BURN IT DOWN (Paul Van Dyk Mix)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/16_BURN_IT_DOWN_(Paul_Van_Dyk_Mix)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "BURN IT DOWN (RAC Mix)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/17_BURN_IT_DOWN_(RAC_Mix)_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BURN IT DOWN",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/pl_01_BURN_IT_DOWN_LINKIN_PARK.txt"
+    }
+  ]
+}
